@@ -1,0 +1,11 @@
+*.zip
+*.class
+*.png
+*.txt
+CREDITS
+
+# Editor files
+.idea
+*.iml
+.vscode
+
